@@ -1,0 +1,26 @@
+{
+  "name": "MUH Plastic Platform",
+  "short_name": "MUH Plastic",
+  "description": "Plastic Surgery Ward App — Mansoura University Hospital",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#07091a",
+  "theme_color": "#07091a",
+  "categories": ["medical", "health"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
